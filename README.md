@@ -69,3 +69,13 @@ Do not use the application or its outputs for clinical purposes.
 その利用に基づく判断または結果について責任を負いません。
 
 本アプリまたはその出力を臨床目的に使用しないでください。
+
+## Installation / インストール
+
+Required R packages are installed automatically when the application
+is first run. An internet connection may be required to install
+packages and download the Japanese font.
+
+初回起動時に必要なRパッケージを自動的にインストールします。
+パッケージおよび日本語フォントの取得には、
+インターネット接続が必要な場合があります。
