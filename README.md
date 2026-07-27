@@ -10,10 +10,12 @@ PKsim Shinyは、線形1コンパートメントモデルに基づく
 
 ## Intended use / 使用目的
 
-This application is intended for pharmacokinetics education.
+PKsim Shiny is intended for educational, research, demonstration,
+and other non-clinical purposes.
 It is not intended for clinical decision-making or patient care.
 
-本アプリは薬物動態教育を目的としています。
+PKsim Shinyは、教育、研究、デモンストレーション、
+その他の非臨床目的で使用することを想定しています。
 実際の患者の診療、投与設計、臨床判断には使用しないでください。
 
 ## Requirements / 必要環境
@@ -30,13 +32,13 @@ It is not intended for clinical decision-making or patient care.
 ## How to run / 実行方法
 
 1. Install R and RStudio.
-2. Download `PKsim_1C.R`.
-3. Open the file in RStudio.
+2. Download `app.R`.
+3. Open `app.R` in RStudio.
 4. Click "Run App" or run `shiny::runApp()`.
 
 1. RおよびRStudioをインストールします。
-2. `PKsim_1C.R`をダウンロードします。
-3. RStudioでファイルを開きます。
+2. `app.R`をダウンロードします。
+3. RStudioで`app.R`を開きます。
 4. "Run App"をクリックするか、`shiny::runApp()`を実行します。
 
 ## Language / 言語
