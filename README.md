@@ -1,4 +1,4 @@
-# PKsim Shiny
+# PKsim Shiny_J
 
 ## Overview / 概要
 
