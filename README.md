@@ -1,20 +1,20 @@
-# PKsim Shiny_J
+# PKsim-Shiny_J
 
 ## Overview / 概要
 
-PKsim Shiny is an educational pharmacokinetic simulation application
+PKsim-Shiny_J is an educational pharmacokinetic simulation application
 based on a linear one-compartment model.
 
-PKsim Shinyは、線形1コンパートメントモデルに基づく
+PKsim-Shiny_Jは、線形1コンパートメントモデルに基づく
 薬物動態教育用シミュレーションアプリケーションです。
 
 ## Intended use / 使用目的
 
-PKsim Shiny is intended for educational, research, demonstration,
+PKsim-Shiny_J is intended for educational, research, demonstration,
 and other non-clinical purposes.
 It is not intended for clinical decision-making or patient care.
 
-PKsim Shinyは、教育、研究、デモンストレーション、
+PKsim-Shiny_Jは、教育、研究、デモンストレーション、
 その他の非臨床目的で使用することを想定しています。
 実際の患者の診療、投与設計、臨床判断には使用しないでください。
 
