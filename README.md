@@ -31,10 +31,10 @@ PKsim-Shiny_Jは、教育、研究、デモンストレーション、
 
 ## How to run / 実行方法
 
-1. Install R and RStudio.(RおよびRStudioをインストールします。)
-2. Download `app.R`.(`app.R`をダウンロードします。)
-3. Open `app.R` in RStudio.(RStudioで`app.R`を開きます。)
-4. Click "Run App" or run `shiny::runApp()`.("Run App"をクリックするか、`shiny::runApp()`を実行します。)
+1. Install R and RStudio. (RおよびRStudioをインストールします。)
+2. Download `app.R`. (`app.R`をダウンロードします。)
+3. Open `app.R` in RStudio. (RStudioで`app.R`を開きます。)
+4. Click "Run App" or run `shiny::runApp()`. ("Run App"をクリックするか、`shiny::runApp()`を実行します。)
 
 
 ## Language / 言語
